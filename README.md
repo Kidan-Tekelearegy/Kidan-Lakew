@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kidan-Tekelearegay
+- 👋 Hi, I’m @Kidan Lakew
 - 👀 I’m interested in Tech world.
 - 🌱 I’m currently learning Web development.nano
 - 💞️ I’m looking to collaborate on ...
