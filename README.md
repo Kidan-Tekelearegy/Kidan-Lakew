@@ -5,6 +5,6 @@
 - 📫 Hier is my email if you want to reach me kidanlakew.tekelearegay@dci.education
 
 <!---
-Kidan-Tekelearegy/Kidan-Tekelearegy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kidan Lakew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
